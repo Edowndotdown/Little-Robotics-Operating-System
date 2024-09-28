@@ -5,15 +5,25 @@ LROS is getting ready to start active development powered by the community. The 
 
 # Roadmap
 LROS releases open beta - October
+
 LROS closes beta - November 
+
 LROS sees some RC builds - December 1 / 20
+
 LROS releases first stable release along with WSI - 20 / 30
+
 LROS recieves bug fixes bi-weekly until May
+
 LROS releases first major update - May
 
 # What to expect with LROS
+
 LROS will include the following
+
 OS/2 like menu bar
+
 Launchpad like MacOS
+
 DOS Style command prompt main interface
+
 Reliance on WSI for Kernel and UI installations and updates
