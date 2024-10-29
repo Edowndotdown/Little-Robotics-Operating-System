@@ -24,7 +24,7 @@ LROS is getting ready to start active development powered by the community. The 
 
 🟡 Finishing touches of code
 
-Although this list does not look substantial, this code is easily past 1000 lines. Furthermore, a new file structure crafted to be easy to ise has proven to be a large task. As such, two or three weeks is essential to deliver a complete user experience we feel customers will enjoy. 
+Although this list does not look substantial, this code is easily past 1000 lines. Furthermore, a new file structure crafted to be easy to has proven to be a large task. As such, two or three weeks is essential to deliver a complete user experience we feel customers will enjoy. 
 
 
 # Roadmap
